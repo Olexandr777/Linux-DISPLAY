@@ -48,5 +48,7 @@ aptitude install xbase-clients
 :-)
 
 xauth list
+
 xauth add
+
 export DISPLAY
